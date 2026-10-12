@@ -4,7 +4,8 @@ Survival analysis of 46,201 bug reports from microsoft/vscode (2016 to 2026).
 Open issues are kept as censored observations, not dropped, so slow bugs are
 not hidden.
 
-![alt text](image.png)
+![Uploading image.png…]()
+
 
 ## Findings
 
